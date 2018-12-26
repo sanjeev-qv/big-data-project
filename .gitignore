@@ -1,0 +1,17 @@
+# Maven build dir
+target/
+project/
+
+# celery monitor
+djcelerymon.db
+celerybeat-schedule
+
+# IntelliJ IDEA project files
+*.ids
+*.ipr
+*.iml
+*.iws
+*.log
+*.idea
+.idea/
+.ideaDataSources/
